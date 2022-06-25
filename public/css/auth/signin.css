@@ -1,0 +1,46 @@
+
+.login {
+    min-height: 100vh;
+}
+
+.bg-image {
+    background-color: #2C59C0;
+    background-size: cover;
+    background-position: center;
+}
+
+.login-heading {
+    font-weight: 300;
+}
+
+.btn-login {
+    /* font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem; */
+}
+
+.text-bold {
+    font-weight: 700;
+}
+
+.text-gray {
+    color: #8F8F8F;
+}
+
+.text-blue {
+    color: #2C59C0;
+}
+
+.btn-primary {
+    color: #fff !important;
+    background-color: #2C59C0 !important;
+}
+
+.btn-primary:hover {
+    color: #fff !important;
+    background-color: #2c58c0e0 !important;
+}
+
+.link-primary {
+    color: #2C59C0 !important;
+}
